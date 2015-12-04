@@ -1,15 +1,15 @@
 {
-    "name": "sdiaz/prestashop-connector-bundle",
+    "name": "mejdoubimeriem/prestashop-connector",
     "type": "symfony-bundle",
     "description": "Akeneo PIM bundle to export to Prestashop platform.",
     "keywords": ["pim", "akeneo", "ecommerce", "e-commerce", "prestashop", "connector", "rest", "api"],
-    "homepage": "http://github.com/sdiaz/PrestashopConnectorBundle",
+    "homepage": "http://github.com/mejdoubimeriem/prestashopConnectorBundle",
     "license": "MIT",
     "authors": [
         {
-            "name":     "Santi Díaz",
-            "email":    "santiago.diaz@me.com",
-            "homepage": "http://sdiaz.es/"
+            "name":     "Mejdoubi Meriem",
+            "email":    "mejdoubi.meriem@gmail.com",
+            "homepage": "http://mejdoubimeriem.com"
         }
     ],
     "repositories": [
