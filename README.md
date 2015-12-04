@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PrestashopConnectorBundle for Akeneo test
 
 Welcome on the Akeneo PIM Prestashop connector bundle.
@@ -110,3 +111,7 @@ This bundle is still under active development. Expect bugs and instabilities. Fe
 # Troubleshooting
 
 You can find solutions for some common problems in the [troubleshooting section](./Resources/doc/troubleshooting.md).
+=======
+# prestashopconnector
+test
+>>>>>>> origin/master
